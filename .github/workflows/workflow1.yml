@@ -9,4 +9,4 @@ jobs:
       - name: step2
         run: echo "Bye"
       - name: step3
-        run: python3 ../file.py 
+        run: python3 file.py 
