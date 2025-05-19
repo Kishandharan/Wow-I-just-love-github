@@ -6,4 +6,5 @@ jobs:
     steps:
       - name: step1
         echo "Hello"
+      - name: step2
         echo "Bye"
