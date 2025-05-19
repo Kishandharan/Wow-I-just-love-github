@@ -1,0 +1,9 @@
+name: rajtest1
+on: push
+
+jobs:
+   job1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: RajTest1
+        run: echo "kjadfljasdlk;fj"
